@@ -20,6 +20,5 @@ while True:
             print("goed gedaan")
             break
     elif letter1 != gwoord:
-        counter +=1
         print ("niet goed")
         print ("dit zijn je foute letters:"+fletter)
